@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
 function Page3() {
   const [pg3, setPg3] = useState([]);
