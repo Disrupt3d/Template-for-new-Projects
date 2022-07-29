@@ -1,6 +1,8 @@
 import React from "react";
 import { ToastContainer } from "react-toastify";
 
+import "../../styles/Home.css";
+
 export default function Home() {
   return (
     <header className="App-header">
